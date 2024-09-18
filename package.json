@@ -1,0 +1,15 @@
+{
+  "name": "smartretaildb",
+  "version": "1.0.0",
+  "description": "**SmartRetailDB** is a SQL-based inventory and sales management system designed to streamline the operations of small to medium-sized supermarket chains. The system handles essential business functions such as inventory management, sales processing, customer loyalty programs, supplier tracking, and reporting. The system is built with the aim of providing an efficient, scalable solution for retail environments, particularly in smaller towns and regions. It allows seamless management of day-to-day supermarket operations through an intuitive interface, ensuring operational efficiency and better decision-making through data-driven insights.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.0"
+  }
+}
