@@ -38,10 +38,10 @@
 ## Tech Stack
 
 The project uses a combination of open-source technologies:
-- **Database**: MySQL / PostgreSQL (or SQLite for smaller stores).
-- **Back-End**: Python (Django) / PHP (Laravel).
+- **Database**: MySQL
+- **Back-End**: Python (Django)
 - **Front-End**: HTML, CSS, JavaScript (with React.js for dynamic interfaces).
-- **POS Integration**: Custom-built or pre-integrated POS systems.
+- **POS Integration**: Custom-built
 - **Reporting and Analytics**: SQL queries and optional integration with Power BI/Tableau.
 
 ---
@@ -51,10 +51,10 @@ The project uses a combination of open-source technologies:
 ### Prerequisites
 
 Ensure you have the following installed on your system:
-- Python 3.x / PHP
-- MySQL / PostgreSQL
+- Python 3.x
+- MySQL
 - Node.js (for front-end, if using React)
-- Django (if using Python)
+- Django
 
 ### Clone the Repository
 
