@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/SmartRetailDB/static/css/main.b7fb27b2.chunk.css",
+    "main.js": "/SmartRetailDB/static/js/main.1c0b1fa8.chunk.js",
+    "main.js.map": "/SmartRetailDB/static/js/main.1c0b1fa8.chunk.js.map",
+    "runtime~main.js": "/SmartRetailDB/static/js/runtime~main.1935d7a9.js",
+    "runtime~main.js.map": "/SmartRetailDB/static/js/runtime~main.1935d7a9.js.map",
+    "static/js/2.07b41d29.chunk.js": "/SmartRetailDB/static/js/2.07b41d29.chunk.js",
+    "static/js/2.07b41d29.chunk.js.map": "/SmartRetailDB/static/js/2.07b41d29.chunk.js.map",
+    "static/js/3.835831a2.chunk.js": "/SmartRetailDB/static/js/3.835831a2.chunk.js",
+    "static/js/3.835831a2.chunk.js.map": "/SmartRetailDB/static/js/3.835831a2.chunk.js.map",
+    "index.html": "/SmartRetailDB/index.html",
+    "precache-manifest.2eb4cb09a263520302eba734e804f94a.js": "/SmartRetailDB/precache-manifest.2eb4cb09a263520302eba734e804f94a.js",
+    "service-worker.js": "/SmartRetailDB/service-worker.js",
+    "static/css/main.b7fb27b2.chunk.css.map": "/SmartRetailDB/static/css/main.b7fb27b2.chunk.css.map"
+  }
+}
