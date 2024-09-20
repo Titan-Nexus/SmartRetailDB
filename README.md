@@ -59,5 +59,5 @@ Ensure you have the following installed on your system:
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/SmartRetailDB.git
+git clone https://github.com/donshammah96/SmartRetailDB.git
 cd SmartRetailDB
